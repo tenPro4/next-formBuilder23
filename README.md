@@ -1,9 +1,9 @@
-### Create project
-npx create-next-app@latest
+## Create project
+```npx create-next-app@latest```
 
 ## Setup local postgres with prisma
--https://medium.com/@lada496/how-to-setup-prisma-with-your-local-postgresql-a82407ff823e
--migration: npx prisma migrate dev
+- https://medium.com/@lada496/how-to-setup-prisma-with-your-local-postgresql-a82407ff823e
+- migration: npx prisma migrate dev
 
 add all shadcn component
 -npx shadcn-ui@latest add
