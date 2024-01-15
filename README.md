@@ -9,15 +9,15 @@
 - npx shadcn-ui@latest add
 - then press a and enter
 
-feature
--@dnd-kit/core
--good practice for typescript
--onblur form update(properties sidebar form)
--useTransition
--react-confetti
--Suspense callback RC
--useCallback
--use context provider
+## Feature
+- @dnd-kit/core
+- good practice for typescript
+- onblur form update(properties sidebar form)
+- useTransition
+- react-confetti
+- Suspense callback RC
+- useCallback
+- use context provider
 
-background
-https://heropatterns.com/
+## Background
+- https://heropatterns.com/
