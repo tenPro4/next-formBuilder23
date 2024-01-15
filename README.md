@@ -2,7 +2,7 @@
 ```npx create-next-app@latest```
 
 ## Setup local postgres with prisma
-- https://medium.com/@lada496/how-to-setup-prisma-with-your-local-postgresql-a82407ff823e
+- (References)[https://medium.com/@lada496/how-to-setup-prisma-with-your-local-postgresql-a82407ff823e]
 - migration: npx prisma migrate dev
 
 add all shadcn component
